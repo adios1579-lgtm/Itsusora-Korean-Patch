@@ -4,9 +4,9 @@ PC판용 한글패치입니다. 공식 2.00 업데이트와 PS2 추가 콘텐츠
 
 ## 다운로드
 
-**[최신 한글패치 다운로드](../../releases/latest)**
+**[최신 한글패치 R9 다운로드](https://github.com/adios1579-lgtm/Itsusora-Korean-Patch/releases/tag/v2026.09.17-r9)**
 
-릴리스의 Assets에서 `Itsusora_Korean_Patch_20260916_R8.zip` 하나를 받으세요. GitHub의 `Source code` 파일은 설치용 패치가 아닙니다.
+릴리스의 Assets에서 `Itsusora_Korean_Patch_20260917_R9.zip` 하나를 받으세요. GitHub의 `Source code` 파일은 설치용 패치가 아닙니다.
 
 ## 설치
 
@@ -25,9 +25,10 @@ PC판용 한글패치입니다. 공식 2.00 업데이트와 PS2 추가 콘텐츠
 - 한글 오프닝 2편과 영상 잔상 수정
 - 공식 2.00 통합 및 일본어 설치 경로 지원
 
-## R8 수정사항
+## R9 수정사항
 
-호칭관련 수정
+- 누락된 묘비 배경 이미지 2종 한글화
+- 비석에 어울리도록 글자 질감 조정
 
 ## 세이브와 복구
 
